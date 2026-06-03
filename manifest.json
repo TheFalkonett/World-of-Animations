@@ -1,0 +1,16 @@
+{
+    "mods": [
+        {
+            "path": "Russian/8/TD/WoA_R159_SU_130PM.wotmod",
+            "size": 2573925,
+            "nation": "Russian",
+            "tier": "8",
+            "class": "TD",
+            "name": {
+                "en_US": "SU-130PM",
+                "de_DE": "SU-130PM",
+                "ru_RU": "СУ-130ПМ"
+            }
+        }
+    ]
+}
