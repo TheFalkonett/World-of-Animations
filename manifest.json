@@ -1,8 +1,10 @@
 {
+    "hash_algorithm": "blake3",
     "mods": [
         {
             "path": "Russian/8/TD/WoA_R159_SU_130PM.wotmod",
             "size": 2573925,
+            "hash": "ddf83196f94c9489085d5410f9855a818c895c3538bbb2661aec589e5e801ac0",
             "nation": "Russian",
             "tier": "8",
             "class": "TD",
