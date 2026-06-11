@@ -13,6 +13,513 @@
                 "de_DE": "SU-130PM",
                 "ru_RU": "СУ-130ПМ"
             }
+        },
+        {
+            "path": "Sweden/1/LT/WoA_S05_Strv_M21_29.wotmod",
+            "size": 1791938,
+            "hash": "919b29b73c1a7686387a481f7750e24329746a88b6d29ea6690195ab4611b86d",
+            "nation": "Sweden",
+            "tier": "1",
+            "class": "LT",
+            "name": {
+                "en_US": "Strv fm/21",
+                "de_DE": "Strv fm/21",
+                "ru_RU": "Strv fm/21"
+            }
+        },
+        {
+            "path": "Sweden/10/HT/WoA_S16_Kranvagn.wotmod",
+            "size": 3754307,
+            "hash": "c06103b612640a2624b8ca8c648d2b5ff9d39e5863fb0f4ef013c9ef4c501abc",
+            "nation": "Sweden",
+            "tier": "10",
+            "class": "HT",
+            "name": {
+                "en_US": "Kranvagn",
+                "de_DE": "Kranvagn",
+                "ru_RU": "Kranvagn"
+            }
+        },
+        {
+            "path": "Sweden/10/HT/WoA_S16_Kranvagn_3Dst_10_additional_FULL3D.wotmod",
+            "size": 6740351,
+            "hash": "c90449d8c484abac6f931aeb101e5f59a45a5b3968ac59866ef518fa8d9cd2e5",
+            "nation": "Sweden",
+            "tier": "10",
+            "class": "HT",
+            "name": {
+                "en_US": "Kranvagn - 3D-Style \"Hjälpkran\"",
+                "de_DE": "Kranvagn - 3D-Style \"Hjälpkran\"",
+                "ru_RU": "Kranvagn - 3D-Style \"Hjälpkran\""
+            }
+        },
+        {
+            "path": "Sweden/10/MT/WoA_S28_UDES_15_16.wotmod",
+            "size": 2287419,
+            "hash": "8f50a68362bed2a2555b466f624d58254328e6481d26bab1384b2a44af12e24a",
+            "nation": "Sweden",
+            "tier": "10",
+            "class": "MT",
+            "name": {
+                "en_US": "UDES 15/16",
+                "de_DE": "UDES 15/16",
+                "ru_RU": "UDES 15/16"
+            }
+        },
+        {
+            "path": "Sweden/10/TD/WoA_S11_Strv_103B.wotmod",
+            "size": 2619176,
+            "hash": "1a7fb10f3b83e56ee2c68482d4c576a23d77a22aad48f2f2fd3dcc99d07f6da0",
+            "nation": "Sweden",
+            "tier": "10",
+            "class": "TD",
+            "name": {
+                "en_US": "Strv 103B",
+                "de_DE": "Strv 103B",
+                "ru_RU": "Strv 103B"
+            }
+        },
+        {
+            "path": "Sweden/11/TD/WoA_S36_Strv_107_12.wotmod",
+            "size": 10658279,
+            "hash": "2d4d9fba94be359331a55110b89b1eab363eb09c3a1d6a0b1382736cfc765443",
+            "nation": "Sweden",
+            "tier": "11",
+            "class": "TD",
+            "name": {
+                "en_US": "Strv 107-12",
+                "de_DE": "Strv 107-12",
+                "ru_RU": "Strv 107-12"
+            }
+        },
+        {
+            "path": "Sweden/2/LT/WoA_S03_Strv_M38.wotmod",
+            "size": 1469960,
+            "hash": "586904a43847b37074573da204855c4ace945e96d3c1f187c1d2eb336a59134d",
+            "nation": "Sweden",
+            "tier": "2",
+            "class": "LT",
+            "name": {
+                "en_US": "Strv m/38",
+                "de_DE": "Strv m/38",
+                "ru_RU": "Strv m/38"
+            }
+        },
+        {
+            "path": "Sweden/2/LT/WoA_S15_L_60.wotmod",
+            "size": 224521,
+            "hash": "21b23718a26032e395692019ba461af7de49fe565d0cae942bda4e9188b60d32",
+            "nation": "Sweden",
+            "tier": "2",
+            "class": "LT",
+            "name": {
+                "en_US": "L-60",
+                "de_DE": "L-60",
+                "ru_RU": "L-60"
+            }
+        },
+        {
+            "path": "Sweden/2/TD/WoA_S09_L_120_TD.wotmod",
+            "size": 843431,
+            "hash": "b9f7d5fc00407ddd8b6ff1bb73a231f46d945525b1f85b13dd56df26287cf07a",
+            "nation": "Sweden",
+            "tier": "2",
+            "class": "TD",
+            "name": {
+                "en_US": "Pvlvv fm/42",
+                "de_DE": "Pvlvv fm/42",
+                "ru_RU": "Pvlvv fm/42"
+            }
+        },
+        {
+            "path": "Sweden/3/LT/WoA_S12_Strv_M40.wotmod",
+            "size": 2181141,
+            "hash": "3bebe902ef11a4ea2acb62bd740e8fdeca7834d858dffa99b537d76e4da3920a",
+            "nation": "Sweden",
+            "tier": "3",
+            "class": "LT",
+            "name": {
+                "en_US": "Strv m/40L",
+                "de_DE": "Strv m/40L",
+                "ru_RU": "Strv m/40L"
+            }
+        },
+        {
+            "path": "Sweden/3/LT/WoA_S34_Lago_M38.wotmod",
+            "size": 1962267,
+            "hash": "c80c527ecd325360fc6882369bc65616cef9e4240fafe72903da982b10380d1b",
+            "nation": "Sweden",
+            "tier": "3",
+            "class": "LT",
+            "name": {
+                "en_US": "Lago M38",
+                "de_DE": "Lago M38",
+                "ru_RU": "Lago M38"
+            }
+        },
+        {
+            "path": "Sweden/3/LT/WoA_S39_Strv_m31.wotmod",
+            "size": 2868411,
+            "hash": "62b402862ae147f5805d61aefd1037a5e99b7c8ac778fa8f17b136f2a94292cd",
+            "nation": "Sweden",
+            "tier": "3",
+            "class": "LT",
+            "name": {
+                "en_US": "Strv m/31",
+                "de_DE": "Strv m/31",
+                "ru_RU": "Strv m/31"
+            }
+        },
+        {
+            "path": "Sweden/3/TD/WoA_S20_Ikv_72.wotmod",
+            "size": 1719265,
+            "hash": "2f8a9cd18da9544b813b0228ff081fadf94a7788b3afbd52f86f3a9057b3fb9f",
+            "nation": "Sweden",
+            "tier": "3",
+            "class": "TD",
+            "name": {
+                "en_US": "Ikv 72",
+                "de_DE": "Ikv 72",
+                "ru_RU": "Ikv 72"
+            }
+        },
+        {
+            "path": "Sweden/4/MT/WoA_S04_Lago_I.wotmod",
+            "size": 1718242,
+            "hash": "239955f0b523cd32485f2d46df5c5c8ebb4191ad3d357930bc49d83bf5736c55",
+            "nation": "Sweden",
+            "tier": "4",
+            "class": "MT",
+            "name": {
+                "en_US": "Lago",
+                "de_DE": "Lago",
+                "ru_RU": "Lago"
+            }
+        },
+        {
+            "path": "Sweden/4/TD/WoA_S19_Sav_M43.wotmod",
+            "size": 2067526,
+            "hash": "b377fee8df5cfc4b90516dc12ecff56a3bec1500fac7517108b94f4f58fb8759",
+            "nation": "Sweden",
+            "tier": "4",
+            "class": "TD",
+            "name": {
+                "en_US": "Sav m/43",
+                "de_DE": "Sav m/43",
+                "ru_RU": "Sav m/43"
+            }
+        },
+        {
+            "path": "Sweden/5/MT/WoA_S02_Strv_M42.wotmod",
+            "size": 2275343,
+            "hash": "0c41090fd418b87d0ab9f1adf23e6a8cf775cd496923d25e35fa88d4c9fb13d4",
+            "nation": "Sweden",
+            "tier": "5",
+            "class": "MT",
+            "name": {
+                "en_US": "Strv m/42",
+                "de_DE": "Strv m/42",
+                "ru_RU": "Strv m/42"
+            }
+        },
+        {
+            "path": "Sweden/5/TD/WoA_S14_Ikv_103.wotmod",
+            "size": 1860100,
+            "hash": "b53ebeb0e1bcbb347f10bad78610574dbb4fb6a4023f51d2ebb4c362f176c25d",
+            "nation": "Sweden",
+            "tier": "5",
+            "class": "TD",
+            "name": {
+                "en_US": "Ikv 103",
+                "de_DE": "Ikv 103",
+                "ru_RU": "Ikv 103"
+            }
+        },
+        {
+            "path": "Sweden/6/MT/WoA_S01_Strv_74_A2.wotmod",
+            "size": 1452506,
+            "hash": "da745ad2e30f1cced2482c68b358521d1db9eadb314d75c9763a249d29563d78",
+            "nation": "Sweden",
+            "tier": "6",
+            "class": "MT",
+            "name": {
+                "en_US": "Strv m/42-57 Alt A.2",
+                "de_DE": "Strv m/42-57 Alt A.2",
+                "ru_RU": "Strv m/42-57 Alt A.2"
+            }
+        },
+        {
+            "path": "Sweden/6/MT/WoA_S07_Strv_74.wotmod",
+            "size": 2553961,
+            "hash": "b32f18b6d5324950d821d2a63b9544b0a736beeb9ca35e6a461ad23ecc156d9a",
+            "nation": "Sweden",
+            "tier": "6",
+            "class": "MT",
+            "name": {
+                "en_US": "Strv 74",
+                "de_DE": "Strv 74",
+                "ru_RU": "Strv 74"
+            }
+        },
+        {
+            "path": "Sweden/6/TD/WoA_S08_Ikv_65_Alt_2.wotmod",
+            "size": 1953454,
+            "hash": "b7f6e3ad65145b453b3487b30fd69847f10d8a4c54b8bce078c146bab5d622a5",
+            "nation": "Sweden",
+            "tier": "6",
+            "class": "TD",
+            "name": {
+                "en_US": "Ikv 65 Alt II",
+                "de_DE": "Ikv 65 Alt II",
+                "ru_RU": "Ikv 65 Alt II"
+            }
+        },
+        {
+            "path": "Sweden/7/MT/WoA_S13_Leo.wotmod",
+            "size": 2042734,
+            "hash": "2b50931a0e22d045531d1ef817da281e2002ba8c361627f75f8e980304d15119",
+            "nation": "Sweden",
+            "tier": "7",
+            "class": "MT",
+            "name": {
+                "en_US": "Leo",
+                "de_DE": "Leo",
+                "ru_RU": "Leo"
+            }
+        },
+        {
+            "path": "Sweden/7/TD/WoA_S06_Ikv_90_Typ_B_Bofors.wotmod",
+            "size": 1640001,
+            "hash": "c834e8ec9a4b7f6da2e276931b64d31baabcc34c6622c41fc61e3470ca1b67bd",
+            "nation": "Sweden",
+            "tier": "7",
+            "class": "TD",
+            "name": {
+                "en_US": "Ikv 90 Typ B",
+                "de_DE": "Ikv 90 Typ B",
+                "ru_RU": "Ikv 90 Typ B"
+            }
+        },
+        {
+            "path": "Sweden/8/HT/WoA_S18_EMIL_1951_E1.wotmod",
+            "size": 863063,
+            "hash": "b489bf7983c9702017110dd5b71777aedd2f1482dbb87a7900148fbd2d1caf81",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "HT",
+            "name": {
+                "en_US": "Emil I",
+                "de_DE": "Emil I",
+                "ru_RU": "Emil I"
+            }
+        },
+        {
+            "path": "Sweden/8/HT/WoA_S25_EMIL_51.wotmod",
+            "size": 3539016,
+            "hash": "252aea5656a930d67a56ffb1a5c19c9766d7014753b16642ef67a68960a96405",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "HT",
+            "name": {
+                "en_US": "EMIL 1951",
+                "de_DE": "EMIL 1951",
+                "ru_RU": "EMIL 1951"
+            }
+        },
+        {
+            "path": "Sweden/8/HT/WoA_S32_Bofors_Tornvagn.wotmod",
+            "size": 1573354,
+            "hash": "1f97a10a65f45824037dc04bb1c347c769de26fea67ba792a0e884b0a9b0a78a",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "HT",
+            "name": {
+                "en_US": "Bofors Tornvagn",
+                "de_DE": "Bofors Tornvagn",
+                "ru_RU": "Bofors Tornvagn"
+            }
+        },
+        {
+            "path": "Sweden/8/MT/WoA_S23_Strv_81.wotmod",
+            "size": 719584,
+            "hash": "1a684fb19c374846d77c2d2c2f652357377c3575a115eb38209808f44c0c45ce",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "Strv 81",
+                "de_DE": "Strv 81",
+                "ru_RU": "Strv 81"
+            }
+        },
+        {
+            "path": "Sweden/8/MT/WoA_S23_Strv_81_sabaton.wotmod",
+            "size": 798583,
+            "hash": "f3368f6e1333cc8ae142ef04a1a1af891b8b2be67b5542c64e99258990116039",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "Primo Victoria",
+                "de_DE": "Primo Victoria",
+                "ru_RU": "Primo Victoria"
+            }
+        },
+        {
+            "path": "Sweden/8/MT/WoA_S26_Lansen_C.wotmod",
+            "size": 1834888,
+            "hash": "81a628b094bf37061918a00a967411c642a28ecb4f76eb0c69de8a20d67ec03f",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "Lansen C",
+                "de_DE": "Lansen C",
+                "ru_RU": "Lansen C"
+            }
+        },
+        {
+            "path": "Sweden/8/MT/WoA_S29_UDES_14_5.wotmod",
+            "size": 1540691,
+            "hash": "105c98344067e367ecdd8a969604bf6fa4f9a7b39b4aacba9a05148d55797413",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "UDES 14 Alt 5",
+                "de_DE": "UDES 14 Alt 5",
+                "ru_RU": "UDES 14 Alt 5"
+            }
+        },
+        {
+            "path": "Sweden/8/MT/WoA_S35_Stridsyxa.wotmod",
+            "size": 1701547,
+            "hash": "d548a4d9915575702b311ade231404db12272e7302c9a326ecd3bf99f3c4e18f",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "Stridsyxa",
+                "de_DE": "Stridsyxa",
+                "ru_RU": "Stridsyxa"
+            }
+        },
+        {
+            "path": "Sweden/8/TD/WoA_S21_UDES_03.wotmod",
+            "size": 4228046,
+            "hash": "0c12242e0133b83fec3a6fbff3da1338c217273f8a1e1e00c038d5001cf04e5a",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "TD",
+            "name": {
+                "en_US": "UDES 03",
+                "de_DE": "UDES 03",
+                "ru_RU": "UDES 03"
+            }
+        },
+        {
+            "path": "Sweden/8/TD/WoA_S22_Strv_S1.wotmod",
+            "size": 2370434,
+            "hash": "39ce5ce0addd3f0aea7d1dcb9b5c159da1c953b60f6647a461911f756c5cc99c",
+            "nation": "Sweden",
+            "tier": "8",
+            "class": "TD",
+            "name": {
+                "en_US": "Strv S1",
+                "de_DE": "Strv S1",
+                "ru_RU": "Strv S1"
+            }
+        },
+        {
+            "path": "Sweden/9/HT/WoA_S17_EMIL_1952_E2.wotmod",
+            "size": 4294435,
+            "hash": "e6dcf037cc3d17b61a8ef5af4a75e5b4650c33c1333c2c7058d5afa282a65d5e",
+            "nation": "Sweden",
+            "tier": "9",
+            "class": "HT",
+            "name": {
+                "en_US": "Emil II",
+                "de_DE": "Emil II",
+                "ru_RU": "Emil II"
+            }
+        },
+        {
+            "path": "Sweden/9/HT/WoA_S31_Strv_K.wotmod",
+            "size": 1999606,
+            "hash": "09d7809c96305c97cd9b2d195c3dabaa2633684b414983d506c3ee87d9cef25d",
+            "nation": "Sweden",
+            "tier": "9",
+            "class": "HT",
+            "name": {
+                "en_US": "Strv K",
+                "de_DE": "Strv K",
+                "ru_RU": "Strv K"
+            }
+        },
+        {
+            "path": "Sweden/9/MT/WoA_S27_UDES_16.wotmod",
+            "size": 3178570,
+            "hash": "215592cdd8852cb5f4dce7d0b559cc93a10d2ee459cf21af11e5b633268de78d",
+            "nation": "Sweden",
+            "tier": "9",
+            "class": "MT",
+            "name": {
+                "en_US": "UDES 16",
+                "de_DE": "UDES 16",
+                "ru_RU": "UDES 16"
+            }
+        },
+        {
+            "path": "Sweden/9/MT/WoA_S30_UDES_03_Alt_3.wotmod",
+            "size": 2466407,
+            "hash": "26d565e73804a52b7edc8463fbe1e6f482225885b9acb4532265f9d1f2edfa1b",
+            "nation": "Sweden",
+            "tier": "9",
+            "class": "MT",
+            "name": {
+                "en_US": "UDES 03 Alt 3",
+                "de_DE": "UDES 03 Alt 3",
+                "ru_RU": "UDES 03 Alt 3"
+            }
+        },
+        {
+            "path": "Sweden/9/MT/WoA_S37_Ambassador.wotmod",
+            "size": 1084881,
+            "hash": "96a47b4dfb6b03cf2bfeed8713077c0d29c19b57010c52adadd8fa53911a2c0d",
+            "nation": "Sweden",
+            "tier": "9",
+            "class": "MT",
+            "name": {
+                "en_US": "Ambassador",
+                "de_DE": "Ambassador",
+                "ru_RU": "Ambassador"
+            }
+        },
+        {
+            "path": "Sweden/9/TD/WoA_S10_Strv_103_0_Series.wotmod",
+            "size": 1598517,
+            "hash": "bdc4bf911c6806daa3c9b2a8a636c62eb4b4d28f77d75bde899460a4889992d5",
+            "nation": "Sweden",
+            "tier": "9",
+            "class": "TD",
+            "name": {
+                "en_US": "Strv 103-0",
+                "de_DE": "Strv 103-0",
+                "ru_RU": "Strv 103-0"
+            }
+        },
+        {
+            "path": "Sweden/9/TD/WoA_S33_Latt_Stridsfordon_120.wotmod",
+            "size": 2327206,
+            "hash": "5ccf4bfc02c78b96fd63d21ca968fbc0c0009bfe2849deea9673e96f186cd127",
+            "nation": "Sweden",
+            "tier": "9",
+            "class": "TD",
+            "name": {
+                "en_US": "Lätt Stridsfordon 120",
+                "de_DE": "Lätt Stridsfordon 120",
+                "ru_RU": "Latt Stridsfordon 120"
+            }
         }
     ]
 }
