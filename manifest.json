@@ -520,6 +520,19 @@
                 "de_DE": "Lätt Stridsfordon 120",
                 "ru_RU": "Latt Stridsfordon 120"
             }
+        },
+        {
+            "path": "WoA_SharedTextures.wotmod",
+            "size": 366338,
+            "hash": "bfb9d6c2a78e9cc136bd7b234f51138f3ef7b66d9b0d88383cac5671867090d1",
+            "nation": "",
+            "tier": "",
+            "class": "",
+            "name": {
+                "en_US": "Shared textures (required)",
+                "de_DE": "Gemeinsame Texturen (erforderlich)",
+                "ru_RU": "Общие текстуры (обязательно)"
+            }
         }
     ]
 }
