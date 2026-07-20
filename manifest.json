@@ -80,6 +80,19 @@
             }
         },
         {
+            "path": "Sweden/10/TD/WoA_S11_Strv_103B_3Dst.wotmod",
+            "size": 3536659,
+            "hash": "2a812446a8daa2cd661a5e2f4e493d7a70e60ca6c87470aa651e51eef3069a24",
+            "nation": "Sweden",
+            "tier": "10",
+            "class": "TD",
+            "name": {
+                "en_US": "Strv 103B - 3D-Style \"Hel\"",
+                "de_DE": "Strv 103B - 3D-Stil „Hel“",
+                "ru_RU": "Strv 103B - 3D-Стиль «Хель»"
+            }
+        },
+        {
             "path": "Sweden/11/TD/WoA_S36_Strv_107_12.wotmod",
             "size": 10658279,
             "hash": "2d4d9fba94be359331a55110b89b1eab363eb09c3a1d6a0b1382736cfc765443",
