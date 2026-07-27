@@ -1,6 +1,6 @@
 # World of Animations (WoA)
 
-*World of Animations* (WoA) is a modding project for *World of Tanks* focused on bringing vehicles to life through animated components and mechanical detail.
+*World of Animations* (WoA) is a modding project for *World of Tanks* focused on bringing vehicles more to life through animated components.
 
 Originally started in 2017 as the **UML Utilization Project (UUP)**.
 
@@ -20,7 +20,6 @@ Examples include, but are not limited to:
 * Cables
 * Bushes
 * Buckets!!
-* Decorative moving parts
 
 ## Compatibility
 
