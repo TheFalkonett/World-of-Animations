@@ -2,6 +2,32 @@
     "hash_algorithm": "blake3",
     "mods": [
         {
+            "path": "British/10/MT/WoA_GB86_Centurion_Action_X.wotmod",
+            "size": 2202709,
+            "hash": "7ed4749c07912d3bacf1e56b8b863ebb872a3dab30a4a5977186c7b281b494dd",
+            "nation": "British",
+            "tier": "10",
+            "class": "MT",
+            "name": {
+                "en_US": "Centurion Action X",
+                "de_DE": "Centurion Action X",
+                "ru_RU": "Centurion Action X"
+            }
+        },
+        {
+            "path": "French/8/TD/WoA_F89_Canon_dassaut_de_105.wotmod",
+            "size": 3422759,
+            "hash": "c1006ba94379b34cfcef41461c684f4081c97a819f492a837b1c6a0cdf0fb221",
+            "nation": "French",
+            "tier": "8",
+            "class": "TD",
+            "name": {
+                "en_US": "AMX Canon d'assaut 105",
+                "de_DE": "AMX Canon d'assaut 105",
+                "ru_RU": "AMX Canon d'assaut 105"
+            }
+        },
+        {
             "path": "Japan/10/MT/WoA_J16_ST_B1_3Dst.wotmod",
             "size": 4400449,
             "hash": "edac224dd3f1f88ba35a0d772b73946b6082ece9b67ace41917924370eef3ff9",

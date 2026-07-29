@@ -7,6 +7,7 @@ Originally started in 2017 as the **UML Utilization Project (UUP)**.
 ## Features
 
 * Animated vehicle components
+* Delta downloads, so you only download what's new/updated
 * Modular `.wotmod` packages
 * Lightweight integration
 
