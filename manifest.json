@@ -28,6 +28,32 @@
             }
         },
         {
+            "path": "German/10/MT/WoA_G89_Leopard1.wotmod",
+            "size": 1887942,
+            "hash": "0c2f9f463e3cf36c24854434348f55839d5d30c63276f932ad655aad6821fa46",
+            "nation": "German",
+            "tier": "10",
+            "class": "MT",
+            "name": {
+                "en_US": "Leopard 1",
+                "de_DE": "Leopard 1",
+                "ru_RU": "Leopard 1"
+            }
+        },
+        {
+            "path": "Italy/8/MT/WoA_It13_Progetto_M35_mod_46.wotmod",
+            "size": 1827241,
+            "hash": "e10e8e8ef9806f4e442c3290a89aa24bf3fc8609f03eabd1033e93fc1b0520b2",
+            "nation": "Italy",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "Progetto M35 mod. 46",
+                "de_DE": "Progetto M35 mod. 46",
+                "ru_RU": "Progetto M35 mod. 46"
+            }
+        },
+        {
             "path": "Japan/10/MT/WoA_J16_ST_B1_3Dst.wotmod",
             "size": 4400449,
             "hash": "edac224dd3f1f88ba35a0d772b73946b6082ece9b67ace41917924370eef3ff9",
