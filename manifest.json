@@ -41,6 +41,32 @@
             }
         },
         {
+            "path": "German/10/TD/WoA_G72_JagdPz_E100.wotmod",
+            "size": 2775349,
+            "hash": "75b386b6c7a77bc7ec2c4848cf0dc3150faebbfe6c97e21471c8d26baaeeb375",
+            "nation": "German",
+            "tier": "10",
+            "class": "TD",
+            "name": {
+                "en_US": "Jagdpanzer E 100",
+                "de_DE": "Jagdpanzer E 100",
+                "ru_RU": "Jagdpanzer E 100"
+            }
+        },
+        {
+            "path": "German/10/TD/WoA_G72_JagdPz_E100_3Dst.wotmod",
+            "size": 2461689,
+            "hash": "c87b8e890f74fd5ffa5d1361802d226ecbecbca0e30d846ec6f938026b9f8c90",
+            "nation": "German",
+            "tier": "10",
+            "class": "TD",
+            "name": {
+                "en_US": "Jagdpanzer E 100 - 3D-Style \"Panzerschiff\"",
+                "de_DE": "Jagdpanzer E 100 - 3D-Stil „Panzerschiff“",
+                "ru_RU": "Jagdpanzer E 100 - 3D-Стиль «Панцершифф»"
+            }
+        },
+        {
             "path": "Italy/8/MT/WoA_It13_Progetto_M35_mod_46.wotmod",
             "size": 1827241,
             "hash": "e10e8e8ef9806f4e442c3290a89aa24bf3fc8609f03eabd1033e93fc1b0520b2",
