@@ -15,6 +15,32 @@
             }
         },
         {
+            "path": "British/6/TD/WoA_GB74_AT8.wotmod",
+            "size": 2990757,
+            "hash": "adc02d1b6e5f03e1dbae0958304162b724aee36501d19621571534f181a87462",
+            "nation": "British",
+            "tier": "6",
+            "class": "TD",
+            "name": {
+                "en_US": "AT 8",
+                "de_DE": "AT 8",
+                "ru_RU": "AT 8"
+            }
+        },
+        {
+            "path": "British/7/TD/WoA_GB75_AT7.wotmod",
+            "size": 1518464,
+            "hash": "061ec62184445768f12a221d4dab63a0751d8efe0cd250092f8b7d3ff29666d3",
+            "nation": "British",
+            "tier": "7",
+            "class": "TD",
+            "name": {
+                "en_US": "AT 7",
+                "de_DE": "AT 7",
+                "ru_RU": "AT 7"
+            }
+        },
+        {
             "path": "French/8/TD/WoA_F89_Canon_dassaut_de_105.wotmod",
             "size": 3422759,
             "hash": "c1006ba94379b34cfcef41461c684f4081c97a819f492a837b1c6a0cdf0fb221",
