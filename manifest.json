@@ -2,6 +2,19 @@
     "hash_algorithm": "blake3",
     "mods": [
         {
+            "path": "American/8/HT/WoA_A124_T54E2.wotmod",
+            "size": 1353405,
+            "hash": "602376fd606f7c37231bd4691716726ef4f64186331cfbf4b3dc6fb29683bdff",
+            "nation": "American",
+            "tier": "8",
+            "class": "HT",
+            "name": {
+                "en_US": "M54 Renegade",
+                "de_DE": "M54 Renegade",
+                "ru_RU": "M54 Renegade"
+            }
+        },
+        {
             "path": "British/10/MT/WoA_GB86_Centurion_Action_X.wotmod",
             "size": 2202709,
             "hash": "7ed4749c07912d3bacf1e56b8b863ebb872a3dab30a4a5977186c7b281b494dd",
@@ -12,6 +25,19 @@
                 "en_US": "Centurion Action X",
                 "de_DE": "Centurion Action X",
                 "ru_RU": "Centurion Action X"
+            }
+        },
+        {
+            "path": "British/10/TD/WoA_GB83_FV4005.wotmod",
+            "size": 1438446,
+            "hash": "82d22ca312564e4afff88b088b074d9285c6f9f25487bd2ce462f5f7cb752c94",
+            "nation": "British",
+            "tier": "10",
+            "class": "TD",
+            "name": {
+                "en_US": "FV4005 Stage II",
+                "de_DE": "FV4005 Stage II",
+                "ru_RU": "FV4005 Stage II"
             }
         },
         {
@@ -90,6 +116,19 @@
                 "en_US": "Jagdpanzer E 100 - 3D-Style \"Panzerschiff\"",
                 "de_DE": "Jagdpanzer E 100 - 3D-Stil „Panzerschiff“",
                 "ru_RU": "Jagdpanzer E 100 - 3D-Стиль «Панцершифф»"
+            }
+        },
+        {
+            "path": "German/8/TD/WoA_G184_Windhund.wotmod",
+            "size": 3247951,
+            "hash": "71fab5a560d2af52dd7e3c7f12c3cfedc5934ddf72dde11fcb7749b9aa258c85",
+            "nation": "German",
+            "tier": "8",
+            "class": "TD",
+            "name": {
+                "en_US": "Windhund",
+                "de_DE": "Windhund",
+                "ru_RU": "Windhund"
             }
         },
         {
@@ -666,8 +705,8 @@
         },
         {
             "path": "WoA_UpdateNotifier.wotmod",
-            "size": 21063,
-            "hash": "2bf5dacc1d6fcd76d0c85a4910259fde173cb785ec5448bb7044f809a4091c5d",
+            "size": 21092,
+            "hash": "c6ccac2c939bd67e88f56309ee2f8861184c7f4738fb779e7a842cba9b409267",
             "nation": "",
             "tier": "",
             "class": "",
