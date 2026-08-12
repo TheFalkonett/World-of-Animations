@@ -158,6 +158,32 @@
             }
         },
         {
+            "path": "Poland/10/MT/WoA_Pl21_CS_63.wotmod",
+            "size": 2144247,
+            "hash": "3715c0778c54c557675be9b9ea73a30ddc722ec4ca46eadac555af996ec399a5",
+            "nation": "Poland",
+            "tier": "10",
+            "class": "MT",
+            "name": {
+                "en_US": "CS-63",
+                "de_DE": "CS-63",
+                "ru_RU": "CS-63"
+            }
+        },
+        {
+            "path": "Poland/10/MT/WoA_Pl21_CS_63_BPXX_3Dst.wotmod",
+            "size": 8077013,
+            "hash": "6ddee80d25511c3624f7a84251c300b78fa35b969521df15289dbc2f80521e2f",
+            "nation": "Poland",
+            "tier": "10",
+            "class": "MT",
+            "name": {
+                "en_US": "CS-63 - 3D-Style \"Dromedary\"",
+                "de_DE": "CS-63 - 3D-Stil „Dromedar“",
+                "ru_RU": "CS-63 - 3D-Стиль «Дромадер»"
+            }
+        },
+        {
             "path": "Russian/8/TD/WoA_R159_SU_130PM.wotmod",
             "size": 2573797,
             "hash": "43401116c846f0031926ea57356e20e3d70162473f36bb25e1065e07b05394b5",
