@@ -41,6 +41,19 @@
             }
         },
         {
+            "path": "British/6/MT/WoA_GB122_Staghound_Mk_III.wotmod",
+            "size": 2849950,
+            "hash": "5f2d45acafebaa2687d36c593733f0743fc7eb26b74e5afab3ffec385a6f71c0",
+            "nation": "British",
+            "tier": "6",
+            "class": "MT",
+            "name": {
+                "en_US": "Staghound Mk. III",
+                "de_DE": "Staghound Mk. III",
+                "ru_RU": "Staghound Mk. III"
+            }
+        },
+        {
             "path": "British/6/TD/WoA_GB74_AT8.wotmod",
             "size": 2990757,
             "hash": "adc02d1b6e5f03e1dbae0958304162b724aee36501d19621571534f181a87462",
@@ -64,6 +77,32 @@
                 "en_US": "AT 7",
                 "de_DE": "AT 7",
                 "ru_RU": "AT 7"
+            }
+        },
+        {
+            "path": "British/8/TD/WoA_GB80_Charioteer.wotmod",
+            "size": 1751408,
+            "hash": "120657637aaec2dbba1c76c1a727c2993d7ee58aafdd39c4738266de42387c14",
+            "nation": "British",
+            "tier": "8",
+            "class": "TD",
+            "name": {
+                "en_US": "Charioteer",
+                "de_DE": "Charioteer",
+                "ru_RU": "Charioteer"
+            }
+        },
+        {
+            "path": "Czech/6/MT/WoA_Cz01_Skoda_T40.wotmod",
+            "size": 256955,
+            "hash": "c4b944b6c4760f4f8a6bc314a3b50095ac13d57675904963d270379125a0fe95",
+            "nation": "Czech",
+            "tier": "6",
+            "class": "MT",
+            "name": {
+                "en_US": "Škoda T 40",
+                "de_DE": "Škoda T 40",
+                "ru_RU": "Škoda T 40"
             }
         },
         {
@@ -207,6 +246,19 @@
                 "en_US": "CS-63 - 3D-Style \"Dromedary\"",
                 "de_DE": "CS-63 - 3D-Stil „Dromedar“",
                 "ru_RU": "CS-63 - 3D-Стиль «Дромадер»"
+            }
+        },
+        {
+            "path": "Russian/7/TD/WoA_R74_SU100M1.wotmod",
+            "size": 1244958,
+            "hash": "f569b7bc5508a48a4a8e9c2a3adea2f84581792d1f3a59421a1bf41ab9bbeca1",
+            "nation": "Russian",
+            "tier": "7",
+            "class": "TD",
+            "name": {
+                "en_US": "SU-100M1",
+                "de_DE": "SU-100M1",
+                "ru_RU": "СУ-100М1"
             }
         },
         {
