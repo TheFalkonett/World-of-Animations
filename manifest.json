@@ -93,6 +93,19 @@
             }
         },
         {
+            "path": "Chinese/7/TD/WoA_Ch35_T-34-2G_FT.wotmod",
+            "size": 3041013,
+            "hash": "7490e3eb0884c61c6f67219a66890a2bd834df0fca30328384eeadbc068fa942",
+            "nation": "Chinese",
+            "tier": "7",
+            "class": "TD",
+            "name": {
+                "en_US": "T-34-2G FT",
+                "de_DE": "T-34-2G FT",
+                "ru_RU": "T-34-2G FT"
+            }
+        },
+        {
             "path": "Czech/6/MT/WoA_Cz01_Skoda_T40.wotmod",
             "size": 256955,
             "hash": "c4b944b6c4760f4f8a6bc314a3b50095ac13d57675904963d270379125a0fe95",
@@ -103,6 +116,19 @@
                 "en_US": "Škoda T 40",
                 "de_DE": "Škoda T 40",
                 "ru_RU": "Škoda T 40"
+            }
+        },
+        {
+            "path": "Czech/7/MT/WoA_Cz05_T34_100.wotmod",
+            "size": 2218957,
+            "hash": "f945fff95991874ad5db2362898c8aaa5155aab1e2e42b857edeee39ecbb8205",
+            "nation": "Czech",
+            "tier": "7",
+            "class": "MT",
+            "name": {
+                "en_US": "Konštrukta T-34/100",
+                "de_DE": "Konštrukta T-34/100",
+                "ru_RU": "Konštrukta T-34/100"
             }
         },
         {
@@ -259,6 +285,19 @@
                 "en_US": "SU-100M1",
                 "de_DE": "SU-100M1",
                 "ru_RU": "СУ-100М1"
+            }
+        },
+        {
+            "path": "Russian/8/MT/WoA_R112_T54_45.wotmod",
+            "size": 560569,
+            "hash": "5b56ac8fa90963b3f6bea60b7dae817a780589e6a1903332c765aec61e67b7ee",
+            "nation": "Russian",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "T-54 first prototype",
+                "de_DE": "T-54 first prototype",
+                "ru_RU": "T-54 first prototype"
             }
         },
         {
