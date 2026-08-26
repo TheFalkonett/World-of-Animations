@@ -2,6 +2,19 @@
     "hash_algorithm": "blake3",
     "mods": [
         {
+            "path": "American/10/TD/WoA_A83_T110E4.wotmod",
+            "size": 325690,
+            "hash": "5d35cb8592b636f1f9124d98224c83c770f661c4719f024a30cbedc03bc26219",
+            "nation": "American",
+            "tier": "10",
+            "class": "TD",
+            "name": {
+                "en_US": "T110E4",
+                "de_DE": "T110E4",
+                "ru_RU": "T110E4"
+            }
+        },
+        {
             "path": "American/8/HT/WoA_A124_T54E2.wotmod",
             "size": 1352267,
             "hash": "e20e7e6c0b81bc4b3ded2bf851901c0410f0677990a1e61fdc6e508e84fe5a2c",
@@ -12,6 +25,19 @@
                 "en_US": "M54 Renegade",
                 "de_DE": "M54 Renegade",
                 "ru_RU": "M54 Renegade"
+            }
+        },
+        {
+            "path": "British/10/LT/WoA_GB100_Manticore.wotmod",
+            "size": 3523067,
+            "hash": "cdafcc5b4671e8f16fdc4b608b7060a7cf4592918df3eea0d3bdd91d844a8fe6",
+            "nation": "British",
+            "tier": "10",
+            "class": "LT",
+            "name": {
+                "en_US": "Manticore",
+                "de_DE": "Manticore",
+                "ru_RU": "Manticore"
             }
         },
         {
@@ -41,6 +67,19 @@
             }
         },
         {
+            "path": "British/4/MT/WoA_GB33_Sentinel_AC_I.wotmod",
+            "size": 1232352,
+            "hash": "4bf9be8d4e3991be0a045e1fe1d57eb96a9e28c5546a63236b6eb247c6d071e6",
+            "nation": "British",
+            "tier": "4",
+            "class": "MT",
+            "name": {
+                "en_US": "AC 1 Sentinel",
+                "de_DE": "AC 1 Sentinel",
+                "ru_RU": "AC 1 Sentinel"
+            }
+        },
+        {
             "path": "British/6/MT/WoA_GB122_Staghound_Mk_III.wotmod",
             "size": 2849285,
             "hash": "3158fc9c004530126d91dd1454e458cefd7a64eff64020c0936cae548ef72655",
@@ -64,6 +103,19 @@
                 "en_US": "AT 8",
                 "de_DE": "AT 8",
                 "ru_RU": "AT 8"
+            }
+        },
+        {
+            "path": "British/7/MT/WoA_GB126_FSV_Scheme_A.wotmod",
+            "size": 2948880,
+            "hash": "97c7baa46a39745d7aa5057eb88d00a1b3ae8d99244a30bc3dc0a036c127b73d",
+            "nation": "British",
+            "tier": "7",
+            "class": "MT",
+            "name": {
+                "en_US": "FSV Scheme A",
+                "de_DE": "FSV Scheme A",
+                "ru_RU": "FSV Scheme A"
             }
         },
         {
@@ -93,6 +145,19 @@
             }
         },
         {
+            "path": "Chinese/10/LT/WoA_Ch29_Type_62C_prot.wotmod",
+            "size": 2535101,
+            "hash": "8bb8078189eb6460014bf00e44592d8dbd81d10c14a93573ec3fa7c3faa85f9f",
+            "nation": "Chinese",
+            "tier": "10",
+            "class": "LT",
+            "name": {
+                "en_US": "WZ-132-1",
+                "de_DE": "WZ-132-1",
+                "ru_RU": "WZ-132-1"
+            }
+        },
+        {
             "path": "Chinese/7/TD/WoA_Ch35_T-34-2G_FT.wotmod",
             "size": 3039364,
             "hash": "30124dcca3c436fedd679cf960755b25511f83c5768b869157394e6a17439eab",
@@ -103,6 +168,19 @@
                 "en_US": "T-34-2G FT",
                 "de_DE": "T-34-2G FT",
                 "ru_RU": "T-34-2G FT"
+            }
+        },
+        {
+            "path": "Chinese/8/LT/WoA_Ch42_WalkerBulldog_M41D.wotmod",
+            "size": 2098060,
+            "hash": "a221b95546f2e339baba9cfc587475ef91d59868f34fd438e97527d62e055b6a",
+            "nation": "Chinese",
+            "tier": "8",
+            "class": "LT",
+            "name": {
+                "en_US": "M41D",
+                "de_DE": "M41D",
+                "ru_RU": "M41D"
             }
         },
         {
@@ -129,6 +207,32 @@
                 "en_US": "Konštrukta T-34/100",
                 "de_DE": "Konštrukta T-34/100",
                 "ru_RU": "Konštrukta T-34/100"
+            }
+        },
+        {
+            "path": "French/10/SPG/WoA_F38_Bat_Chatillon155_58.wotmod",
+            "size": 1803030,
+            "hash": "987b8f5156a7625259fbe400c1adb575e3c292d41b81c0818a2b599fb934a367",
+            "nation": "French",
+            "tier": "10",
+            "class": "SPG",
+            "name": {
+                "en_US": "Bat.-Châtillon 155 58",
+                "de_DE": "Bat.-Châtillon 155 58",
+                "ru_RU": "Bat.-Châtillon 155 58"
+            }
+        },
+        {
+            "path": "French/7/TD/WoA_F35_AMX_AC_Mle1946.wotmod",
+            "size": 1382665,
+            "hash": "d07003d6d27c242366a6fc3cb468f937ef0e4bc0e7acecf638942a4a78a2c22e",
+            "nation": "French",
+            "tier": "7",
+            "class": "TD",
+            "name": {
+                "en_US": "AMX AC mle. 46",
+                "de_DE": "AMX AC mle. 46",
+                "ru_RU": "AMX AC mle. 46"
             }
         },
         {
@@ -194,6 +298,45 @@
                 "en_US": "Jagdpanzer E 100 - 3D-Style \"Panzerschiff\"",
                 "de_DE": "Jagdpanzer E 100 - 3D-Stil „Panzerschiff“",
                 "ru_RU": "Jagdpanzer E 100 - 3D-Стиль «Панцершифф»"
+            }
+        },
+        {
+            "path": "German/6/TD/WoA_G40_Nashorn.wotmod",
+            "size": 1748016,
+            "hash": "065b91f4f429b5f6d121d40683c96f640e9c3daf12dd1aeba5b7a657c4846873",
+            "nation": "German",
+            "tier": "6",
+            "class": "TD",
+            "name": {
+                "en_US": "Nashorn",
+                "de_DE": "Nashorn",
+                "ru_RU": "Nashorn"
+            }
+        },
+        {
+            "path": "German/7/TD/WoA_G48_E-25.wotmod",
+            "size": 1455395,
+            "hash": "f99ec7af2787dd62d62e412b6cb479f69a37ab15f4446dd8fb5db0735a336d18",
+            "nation": "German",
+            "tier": "7",
+            "class": "TD",
+            "name": {
+                "en_US": "E 25",
+                "de_DE": "E 25",
+                "ru_RU": "E 25"
+            }
+        },
+        {
+            "path": "German/8/MT/WoA_G142_M48RPz.wotmod",
+            "size": 2101857,
+            "hash": "8eab4720daa0759eb64093f40c2761f4818537ea0d2ad6c43b4b745531bd21e2",
+            "nation": "German",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "M48A2 Räumpanzer",
+                "de_DE": "M48A2 Räumpanzer",
+                "ru_RU": "M48A2 Räumpanzer"
             }
         },
         {
@@ -311,6 +454,19 @@
                 "en_US": "SU-130PM",
                 "de_DE": "SU-130PM",
                 "ru_RU": "СУ-130ПМ"
+            }
+        },
+        {
+            "path": "Russian/9/MT/WoA_R96_Object_430.wotmod",
+            "size": 1960993,
+            "hash": "a89be6ed31737a2d97d439e1acc4f089b7738eae7ce61ac151ca0060be29b0a7",
+            "nation": "Russian",
+            "tier": "9",
+            "class": "MT",
+            "name": {
+                "en_US": "Object 430",
+                "de_DE": "Object 430",
+                "ru_RU": "Объект 430"
             }
         },
         {
@@ -835,8 +991,8 @@
         },
         {
             "path": "WoA_SharedTextures.wotmod",
-            "size": 300802,
-            "hash": "71ac78aba8cd4adfa21b3900400779554bab29f944e4579ee848cd07c9017791",
+            "size": 1352676,
+            "hash": "946864d67362ef37fd453207f89cfe0d85ead4674295d644b997cb1bd0434abc",
             "nation": "",
             "tier": "",
             "class": "",
