@@ -16,8 +16,8 @@
         },
         {
             "path": "American/8/HT/WoA_A124_T54E2.wotmod",
-            "size": 1352267,
-            "hash": "e20e7e6c0b81bc4b3ded2bf851901c0410f0677990a1e61fdc6e508e84fe5a2c",
+            "size": 1373030,
+            "hash": "c12e32814df490f8007f18ada963162ce54bcae0f6406a5ce6735d58d03dd4c7",
             "nation": "American",
             "tier": "8",
             "class": "HT",
@@ -25,6 +25,19 @@
                 "en_US": "M54 Renegade",
                 "de_DE": "M54 Renegade",
                 "ru_RU": "M54 Renegade"
+            }
+        },
+        {
+            "path": "American/8/SPG/WoA_A37_M40M43.wotmod",
+            "size": 1520157,
+            "hash": "70fc5c0157ae80a457f7905f7737b44050b9cc5bf9d7b4901643d0dee5f0ea12",
+            "nation": "American",
+            "tier": "8",
+            "class": "SPG",
+            "name": {
+                "en_US": "M40/M43",
+                "de_DE": "M40/M43",
+                "ru_RU": "M40/M43"
             }
         },
         {
@@ -107,8 +120,8 @@
         },
         {
             "path": "British/7/MT/WoA_GB126_FSV_Scheme_A.wotmod",
-            "size": 2948880,
-            "hash": "97c7baa46a39745d7aa5057eb88d00a1b3ae8d99244a30bc3dc0a036c127b73d",
+            "size": 2948912,
+            "hash": "62a831183ab9987d27f19aa5dfdbd0e7e72a1ff0aade5cb20776208daea59e9c",
             "nation": "British",
             "tier": "7",
             "class": "MT",
@@ -129,6 +142,19 @@
                 "en_US": "AT 7",
                 "de_DE": "AT 7",
                 "ru_RU": "AT 7"
+            }
+        },
+        {
+            "path": "British/8/MT/WoA_GB125_Saladin.wotmod",
+            "size": 2796315,
+            "hash": "c217bb212740b8729d7cba7caf09eaa68e1ad269f7072e9d847aaa7d1bf9a30a",
+            "nation": "British",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "FV601 Saladin",
+                "de_DE": "FV601 Saladin",
+                "ru_RU": "FV601 Saladin"
             }
         },
         {
@@ -155,6 +181,32 @@
                 "en_US": "WZ-132-1",
                 "de_DE": "WZ-132-1",
                 "ru_RU": "WZ-132-1"
+            }
+        },
+        {
+            "path": "Chinese/10/MT/WoA_Ch19_121.wotmod",
+            "size": 2225297,
+            "hash": "79441cb98f5f90677ea28f4dc2eb320956bde70bd97f75f5807a232ec5ade92b",
+            "nation": "Chinese",
+            "tier": "10",
+            "class": "MT",
+            "name": {
+                "en_US": "121",
+                "de_DE": "121",
+                "ru_RU": "121"
+            }
+        },
+        {
+            "path": "Chinese/10/MT/WoA_Ch25_121_mod_1971B.wotmod",
+            "size": 1852410,
+            "hash": "8497caa5f7cc9eba0d434c3e677157e5a653d8cad73072be1d2ef53c35b48908",
+            "nation": "Chinese",
+            "tier": "10",
+            "class": "MT",
+            "name": {
+                "en_US": "121B",
+                "de_DE": "121B",
+                "ru_RU": "121B"
             }
         },
         {
@@ -249,6 +301,19 @@
             }
         },
         {
+            "path": "French/9/MT/WoA_F114_Projet_4_1.wotmod",
+            "size": 1887109,
+            "hash": "73bf07ab7682c04719faa2feb2e44c042c93c8d697e9bd94c79381013b6c7b2c",
+            "nation": "French",
+            "tier": "9",
+            "class": "MT",
+            "name": {
+                "en_US": "Char Futur 4",
+                "de_DE": "Char Futur 4",
+                "ru_RU": "Char Futur 4"
+            }
+        },
+        {
             "path": "French/9/MT/WoA_F75_Char_de_25t.wotmod",
             "size": 4179812,
             "hash": "6901c2148670ee21e0b84fcb28394e2fcf696c4a776ed4cbbaae3dc53f4c303b",
@@ -301,9 +366,22 @@
             }
         },
         {
+            "path": "German/5/TD/WoA_G104_Stug_IV.wotmod",
+            "size": 1871517,
+            "hash": "7f41eb7e6656990d3f8dc159a95b512c34b80ebbc37cf9cbcd0a36ae431307c6",
+            "nation": "German",
+            "tier": "5",
+            "class": "TD",
+            "name": {
+                "en_US": "StuG IV",
+                "de_DE": "StuG IV",
+                "ru_RU": "StuG IV"
+            }
+        },
+        {
             "path": "German/6/TD/WoA_G40_Nashorn.wotmod",
-            "size": 1748016,
-            "hash": "065b91f4f429b5f6d121d40683c96f640e9c3daf12dd1aeba5b7a657c4846873",
+            "size": 1749239,
+            "hash": "6037389e85106a1fb542606e132eb815c3f973b6ceae5ce39a62176d2ec61b4f",
             "nation": "German",
             "tier": "6",
             "class": "TD",
@@ -314,9 +392,22 @@
             }
         },
         {
+            "path": "German/7/HT/WoA_G57_PzVI_Tiger_P.wotmod",
+            "size": 1160395,
+            "hash": "f64b938b7b820c0d24b307bfe5c389534b97cdaf6269fd0198a509de6c84d34a",
+            "nation": "German",
+            "tier": "7",
+            "class": "HT",
+            "name": {
+                "en_US": "Tiger (P)",
+                "de_DE": "Tiger (P)",
+                "ru_RU": "Tiger (P)"
+            }
+        },
+        {
             "path": "German/7/TD/WoA_G48_E-25.wotmod",
-            "size": 1455395,
-            "hash": "f99ec7af2787dd62d62e412b6cb479f69a37ab15f4446dd8fb5db0735a336d18",
+            "size": 1457119,
+            "hash": "c197b70eecfc37a335832d22fc0005b646f9f54805af38a3925261fb2ee9b337",
             "nation": "German",
             "tier": "7",
             "class": "TD",
@@ -415,6 +506,32 @@
                 "en_US": "CS-63 - 3D-Style \"Dromedary\"",
                 "de_DE": "CS-63 - 3D-Stil „Dromedar“",
                 "ru_RU": "CS-63 - 3D-Стиль «Дромадер»"
+            }
+        },
+        {
+            "path": "Poland/5/MT/WoA_Pl12_25TP_KSUST_II.wotmod",
+            "size": 1932006,
+            "hash": "376f637b0c804b0bff0f1d08091d753ad93a86e7ef27fd980f786e1b00ee203c",
+            "nation": "Poland",
+            "tier": "5",
+            "class": "MT",
+            "name": {
+                "en_US": "25TP KSUST II",
+                "de_DE": "25TP KSUST II",
+                "ru_RU": "25TP KSUST II"
+            }
+        },
+        {
+            "path": "Russian/7/TD/WoA_R18_SU-152.wotmod",
+            "size": 1517503,
+            "hash": "cf3f4d8f2c1cfff913bc67f7cb3367aa2b9a21fa83ce6faf97049332cca755fd",
+            "nation": "Russian",
+            "tier": "7",
+            "class": "TD",
+            "name": {
+                "en_US": "SU-152",
+                "de_DE": "SU-152",
+                "ru_RU": "СУ-152"
             }
         },
         {
@@ -991,8 +1108,8 @@
         },
         {
             "path": "WoA_SharedTextures.wotmod",
-            "size": 1352676,
-            "hash": "946864d67362ef37fd453207f89cfe0d85ead4674295d644b997cb1bd0434abc",
+            "size": 1090532,
+            "hash": "04c133980d5c4805d76a33e95ac106729f31653513e3cb83649ec120f994de31",
             "nation": "",
             "tier": "",
             "class": "",
