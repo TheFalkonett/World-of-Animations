@@ -28,6 +28,19 @@
             }
         },
         {
+            "path": "American/8/LT/WoA_A99_T92_LT.wotmod",
+            "size": 1568453,
+            "hash": "b3c2e68e3cf2b7530d6bdfd550f658a1cbd38462f716df58c16c45c44d5cb6ad",
+            "nation": "American",
+            "tier": "8",
+            "class": "LT",
+            "name": {
+                "en_US": "T92",
+                "de_DE": "T92",
+                "ru_RU": "T92"
+            }
+        },
+        {
             "path": "American/8/SPG/WoA_A37_M40M43.wotmod",
             "size": 1520157,
             "hash": "70fc5c0157ae80a457f7905f7737b44050b9cc5bf9d7b4901643d0dee5f0ea12",
@@ -129,6 +142,19 @@
                 "en_US": "FSV Scheme A",
                 "de_DE": "FSV Scheme A",
                 "ru_RU": "FSV Scheme A"
+            }
+        },
+        {
+            "path": "British/7/SPG/WoA_GB29_Crusader_5inch.wotmod",
+            "size": 1121904,
+            "hash": "0e298b944f87d3ccf00c061ee3ed8a5bd1792ac9dd41ebf70ecab7bda888e81b",
+            "nation": "British",
+            "tier": "7",
+            "class": "SPG",
+            "name": {
+                "en_US": "Crusader 5.5-in. SP",
+                "de_DE": "Crusader 5.5-in. SP",
+                "ru_RU": "Crusader 5.5-in. SP"
             }
         },
         {
@@ -288,6 +314,19 @@
             }
         },
         {
+            "path": "French/8/MT/WoA_F68_AMX_Chasseur_de_char_46.wotmod",
+            "size": 1017719,
+            "hash": "7a4f1ecff304811c646193f97390e18a737bd5fdd0b16dda528b874bd98ae661",
+            "nation": "French",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "AMX Chasseur de chars",
+                "de_DE": "AMX Chasseur de chars",
+                "ru_RU": "AMX Chasseur de chars"
+            }
+        },
+        {
             "path": "French/8/TD/WoA_F89_Canon_dassaut_de_105.wotmod",
             "size": 3421768,
             "hash": "5597e47d94fcce2662d930facdf4dd464ad49332ebeeabd3304e71feb57210f2",
@@ -324,6 +363,19 @@
                 "en_US": "Bat.-Châtillon 25 t AP",
                 "de_DE": "Bat.-Châtillon 25 t AP",
                 "ru_RU": "Bat.-Châtillon 25 t AP"
+            }
+        },
+        {
+            "path": "German/10/HT/WoA_G42_Maus.wotmod",
+            "size": 867177,
+            "hash": "df932838c466d2d874a464fc9a2b83b4f34a0ecf4451d6735ecc5218471fc5ae",
+            "nation": "German",
+            "tier": "10",
+            "class": "HT",
+            "name": {
+                "en_US": "Maus",
+                "de_DE": "Maus",
+                "ru_RU": "Maus"
             }
         },
         {
@@ -379,9 +431,22 @@
             }
         },
         {
+            "path": "German/5/TD/WoA_G76_Pz_Sfl_IVc.wotmod",
+            "size": 6531719,
+            "hash": "564466f244cf000f916ff31586945cffdbdd7c6594404486af11a39a74e659e9",
+            "nation": "German",
+            "tier": "5",
+            "class": "TD",
+            "name": {
+                "en_US": "Pz.Sfl. IVc",
+                "de_DE": "Pz.Sfl. IVc",
+                "ru_RU": "Pz.Sfl. IVc"
+            }
+        },
+        {
             "path": "German/6/TD/WoA_G40_Nashorn.wotmod",
-            "size": 1749239,
-            "hash": "6037389e85106a1fb542606e132eb815c3f973b6ceae5ce39a62176d2ec61b4f",
+            "size": 1750209,
+            "hash": "00cd35a0c4c3aae91f166456dbd5119c28e8e4024e4d1550d31e3bba6fa0bb8c",
             "nation": "German",
             "tier": "6",
             "class": "TD",
@@ -418,6 +483,19 @@
             }
         },
         {
+            "path": "German/8/LT/WoA_G140_HWK_30.wotmod",
+            "size": 665668,
+            "hash": "83cf0a63a297783c43bb912f1e15a3a31774a3658a29cc2c554182a8f2d2f3e6",
+            "nation": "German",
+            "tier": "8",
+            "class": "LT",
+            "name": {
+                "en_US": "HWK 30",
+                "de_DE": "HWK 30",
+                "ru_RU": "HWK 30"
+            }
+        },
+        {
             "path": "German/8/MT/WoA_G142_M48RPz.wotmod",
             "size": 2101857,
             "hash": "8eab4720daa0759eb64093f40c2761f4818537ea0d2ad6c43b4b745531bd21e2",
@@ -441,6 +519,19 @@
                 "en_US": "Windhund",
                 "de_DE": "Windhund",
                 "ru_RU": "Windhund"
+            }
+        },
+        {
+            "path": "Italy/6/MT/WoA_It10_P43_bis.wotmod",
+            "size": 1203487,
+            "hash": "a75d7b0a8a1404e1406201ce13ca0ca7c4e97bfeefe02fb29d04f698ccd76e93",
+            "nation": "Italy",
+            "tier": "6",
+            "class": "MT",
+            "name": {
+                "en_US": "P.43 bis",
+                "de_DE": "P.43 bis",
+                "ru_RU": "P.43 bis"
             }
         },
         {
@@ -483,6 +574,45 @@
             }
         },
         {
+            "path": "Japan/5/MT/WoA_J12_Chi_Nu_Kai.wotmod",
+            "size": 1095167,
+            "hash": "a557ffc5bc5359f90675dac95c8ef531dd1ffe8f614e8156774ac149ca3d338e",
+            "nation": "Japan",
+            "tier": "5",
+            "class": "MT",
+            "name": {
+                "en_US": "Type 3 Chi-Nu Kai",
+                "de_DE": "Type 3 Chi-Nu Kai",
+                "ru_RU": "Type 3 Chi-Nu Kai"
+            }
+        },
+        {
+            "path": "Japan/8/HT/WoA_J27_O_I_120.wotmod",
+            "size": 3433317,
+            "hash": "5c2b37185d5d0ad30bcc771bb0829de4a51ab8a30fe240843d7a990e0c0dd913",
+            "nation": "Japan",
+            "tier": "8",
+            "class": "HT",
+            "name": {
+                "en_US": "O-Ho",
+                "de_DE": "O-Ho",
+                "ru_RU": "O-Ho"
+            }
+        },
+        {
+            "path": "Japan/8/HT/WoA_J39_Type_57.wotmod",
+            "size": 2673760,
+            "hash": "c87ce3a3aca793a12af31b19cab111188b7e387caa42bd0c40c244df4b451eea",
+            "nation": "Japan",
+            "tier": "8",
+            "class": "HT",
+            "name": {
+                "en_US": "Type 57",
+                "de_DE": "Type 57",
+                "ru_RU": "Type 57"
+            }
+        },
+        {
             "path": "Poland/10/MT/WoA_Pl21_CS_63.wotmod",
             "size": 2142704,
             "hash": "0883faaca6cd3d0b88ce9d0a1491c93d35ae2d08fe92ff3e7025f1ea37f941fa",
@@ -522,6 +652,19 @@
             }
         },
         {
+            "path": "Russian/7/HT/WoA_R39_KV-3.wotmod",
+            "size": 1181820,
+            "hash": "db3bdf42152db723e6747b6e54a6e9f99e5960758e626b87561935e8590536aa",
+            "nation": "Russian",
+            "tier": "7",
+            "class": "HT",
+            "name": {
+                "en_US": "KV-3",
+                "de_DE": "KV-3",
+                "ru_RU": "КВ-3"
+            }
+        },
+        {
             "path": "Russian/7/TD/WoA_R18_SU-152.wotmod",
             "size": 1517503,
             "hash": "cf3f4d8f2c1cfff913bc67f7cb3367aa2b9a21fa83ce6faf97049332cca755fd",
@@ -548,6 +691,32 @@
             }
         },
         {
+            "path": "Russian/8/LT/WoA_R107_LTB.wotmod",
+            "size": 1355482,
+            "hash": "e9891f9f877bf6d2aec67cfa4493869c94782823e48ba5a713454f6c139f2333",
+            "nation": "Russian",
+            "tier": "8",
+            "class": "LT",
+            "name": {
+                "en_US": "LTTB",
+                "de_DE": "LTTB",
+                "ru_RU": "ЛТТБ"
+            }
+        },
+        {
+            "path": "Russian/8/LT/WoA_R158_LT_432.wotmod",
+            "size": 662343,
+            "hash": "8b707c7c19b32408f8571150bb46875c203fa8a69d38254f391a094018c62246",
+            "nation": "Russian",
+            "tier": "8",
+            "class": "LT",
+            "name": {
+                "en_US": "LT-432",
+                "de_DE": "LT-432",
+                "ru_RU": "ЛТ-432"
+            }
+        },
+        {
             "path": "Russian/8/MT/WoA_R112_T54_45.wotmod",
             "size": 560041,
             "hash": "6cceca1d0f7573791ed46e80705cfc07d7372536ff07bcde163dd8d7b4b65f04",
@@ -558,6 +727,32 @@
                 "en_US": "T-54 first prototype",
                 "de_DE": "T-54 first prototype",
                 "ru_RU": "T-54 first prototype"
+            }
+        },
+        {
+            "path": "Russian/8/MT/WoA_R146_STG.wotmod",
+            "size": 1841974,
+            "hash": "ed501da346a96eddb33773b71a08e55cd23f9206667e698652e3b24c6c11850e",
+            "nation": "Russian",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "STG",
+                "de_DE": "STG",
+                "ru_RU": "СТГ"
+            }
+        },
+        {
+            "path": "Russian/8/MT/WoA_R20_T-44.wotmod",
+            "size": 750644,
+            "hash": "57bdaa885a77d22c827c7428be5079611a886be6c21ff10d85364114ce660e8e",
+            "nation": "Russian",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "T-44",
+                "de_DE": "T-44",
+                "ru_RU": "T-44"
             }
         },
         {
