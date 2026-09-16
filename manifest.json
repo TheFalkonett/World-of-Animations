@@ -15,6 +15,45 @@
             }
         },
         {
+            "path": "American/11/HT/WoA_A182_T803.wotmod",
+            "size": 1890036,
+            "hash": "73742b5a7d17a293ebc8204df449bc150a8569057213047c899018e004038810",
+            "nation": "American",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "T803",
+                "de_DE": "T803",
+                "ru_RU": "T803"
+            }
+        },
+        {
+            "path": "American/11/MT/WoA_A183_XM69_Hacker.wotmod",
+            "size": 4009376,
+            "hash": "e7e676c284bb4839514fbefcd5b0bb46e22234388ac3da2e6103e382f5be6715",
+            "nation": "American",
+            "tier": "11",
+            "class": "MT",
+            "name": {
+                "en_US": "XM69 Hacker",
+                "de_DE": "XM69 Hacker",
+                "ru_RU": "XM69 Hacker"
+            }
+        },
+        {
+            "path": "American/11/TD/WoA_A195_Gorilla.wotmod",
+            "size": 2178233,
+            "hash": "cc0f5d7be9027b12a43e64723d532c3051235bc67f18c9fa100e7ebc613bd700",
+            "nation": "American",
+            "tier": "11",
+            "class": "TD",
+            "name": {
+                "en_US": "Gorilla",
+                "de_DE": "Gorilla",
+                "ru_RU": "Gorilla"
+            }
+        },
+        {
             "path": "American/8/HT/WoA_A124_T54E2.wotmod",
             "size": 1373030,
             "hash": "c12e32814df490f8007f18ada963162ce54bcae0f6406a5ce6735d58d03dd4c7",
@@ -159,8 +198,8 @@
         },
         {
             "path": "British/7/TD/WoA_GB75_AT7.wotmod",
-            "size": 1516730,
-            "hash": "16bcee218a1c8a0f5ff3825fbd9ff7864fd2903bf22c57f64ff77090c809bd82",
+            "size": 1538971,
+            "hash": "38f6f7ad83a4525ae77f97ca75c24826d3749b324d08f7b0e9c4ef8a8f4c6230",
             "nation": "British",
             "tier": "7",
             "class": "TD",
@@ -233,6 +272,32 @@
                 "en_US": "121B",
                 "de_DE": "121B",
                 "ru_RU": "121B"
+            }
+        },
+        {
+            "path": "Chinese/11/LT/WoA_Ch71_WZ_219.wotmod",
+            "size": 8065899,
+            "hash": "5064b408035b6a5e0bd914ebce545123fd6c2b767dc9b85b72fffe969c14b669",
+            "nation": "Chinese",
+            "tier": "11",
+            "class": "LT",
+            "name": {
+                "en_US": "WZ-219",
+                "de_DE": "WZ-219",
+                "ru_RU": "WZ-219"
+            }
+        },
+        {
+            "path": "Chinese/11/TD/WoA_Ch70_PTZ_78.wotmod",
+            "size": 6355264,
+            "hash": "4c960d076a4135601bf715a646e9f2404514d3e98a4c03a2edae30670f1cac08",
+            "nation": "Chinese",
+            "tier": "11",
+            "class": "TD",
+            "name": {
+                "en_US": "PTZ-78",
+                "de_DE": "PTZ-78",
+                "ru_RU": "PTZ-78"
             }
         },
         {
@@ -418,6 +483,19 @@
             }
         },
         {
+            "path": "German/11/HT/WoA_G197_Pz_Kpfw_Neu.wotmod",
+            "size": 3873238,
+            "hash": "93918223f762777b9f7a6be7600987b6a115e06a8321c56c1d248b95893705c8",
+            "nation": "German",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "Pz.Kpfw. Neu",
+                "de_DE": "Pz.Kpfw. Neu",
+                "ru_RU": "Pz.Kpfw. Neu"
+            }
+        },
+        {
             "path": "German/5/TD/WoA_G104_Stug_IV.wotmod",
             "size": 1871517,
             "hash": "7f41eb7e6656990d3f8dc159a95b512c34b80ebbc37cf9cbcd0a36ae431307c6",
@@ -470,6 +548,19 @@
             }
         },
         {
+            "path": "German/7/MT/WoA_G03_PzV_Panther.wotmod",
+            "size": 2008940,
+            "hash": "d6e2e9ebd729a4eb0c1ad28068c16ecfb388c370535c6f73c7efcc38e97023ea",
+            "nation": "German",
+            "tier": "7",
+            "class": "MT",
+            "name": {
+                "en_US": "Panther",
+                "de_DE": "Panther",
+                "ru_RU": "Panther"
+            }
+        },
+        {
             "path": "German/7/TD/WoA_G48_E-25.wotmod",
             "size": 1457119,
             "hash": "c197b70eecfc37a335832d22fc0005b646f9f54805af38a3925261fb2ee9b337",
@@ -519,6 +610,19 @@
                 "en_US": "Windhund",
                 "de_DE": "Windhund",
                 "ru_RU": "Windhund"
+            }
+        },
+        {
+            "path": "Italy/11/MT/WoA_It43_CAV_mod_71.wotmod",
+            "size": 5070495,
+            "hash": "1df0352532379af4e66a025aad664120956b7c77213a904159996f5bbea537f0",
+            "nation": "Italy",
+            "tier": "11",
+            "class": "MT",
+            "name": {
+                "en_US": "CAV mod. 71",
+                "de_DE": "CAV mod. 71",
+                "ru_RU": "CAV mod. 71"
             }
         },
         {
@@ -613,6 +717,19 @@
             }
         },
         {
+            "path": "Japan/9/MT/WoA_GB123_GSOR_1006_v7.wotmod",
+            "size": 3023257,
+            "hash": "5ddba6bbc489107fc5fd6a4c515381d39689ffe5a4b49079f093c51fc5b9ba5b",
+            "nation": "Japan",
+            "tier": "9",
+            "class": "MT",
+            "name": {
+                "en_US": "GSOR 1006 Scheme 7",
+                "de_DE": "GSOR 1006 Scheme 7",
+                "ru_RU": "GSOR 1006 Scheme 7"
+            }
+        },
+        {
             "path": "Poland/10/MT/WoA_Pl21_CS_63.wotmod",
             "size": 2142704,
             "hash": "0883faaca6cd3d0b88ce9d0a1491c93d35ae2d08fe92ff3e7025f1ea37f941fa",
@@ -627,8 +744,8 @@
         },
         {
             "path": "Poland/10/MT/WoA_Pl21_CS_63_BPXX_3Dst.wotmod",
-            "size": 8072576,
-            "hash": "0552a90009397c8858b9e369d11b959fb700ea9760ba09ea4e263d49144fb986",
+            "size": 8072583,
+            "hash": "439ac9b1a8e522377f9bc4d4ffeb7acee6ef6ce71c7769f9361c3b5192ba4138",
             "nation": "Poland",
             "tier": "10",
             "class": "MT",
