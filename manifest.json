@@ -990,6 +990,19 @@
             }
         },
         {
+            "path": "Sweden/11/MT/WoA_S41_BV_111.wotmod",
+            "size": 4094051,
+            "hash": "29061caa9647e1ac59fc07ce2295c73d775df89b1c68a1149e5f722933bc1ffe",
+            "nation": "Sweden",
+            "tier": "11",
+            "class": "MT",
+            "name": {
+                "en_US": "BV-111",
+                "de_DE": "BV-111",
+                "ru_RU": "BV-111"
+            }
+        },
+        {
             "path": "Sweden/11/TD/WoA_S36_Strv_107_12.wotmod",
             "size": 11050308,
             "hash": "db7f53668bc8aa0081c85505314654193f98f061a253a80f97a851687db4e42f",
