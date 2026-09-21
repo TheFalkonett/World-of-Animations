@@ -691,6 +691,19 @@
             }
         },
         {
+            "path": "Japan/6/HT/WoA_J24_Mi_To_130_tons.wotmod",
+            "size": 1419254,
+            "hash": "ac3a31080826b2551b3942f5dcea4ce43c28feee2380949b27e01c2980ae51a9",
+            "nation": "Japan",
+            "tier": "6",
+            "class": "HT",
+            "name": {
+                "en_US": "O-I",
+                "de_DE": "O-I",
+                "ru_RU": "O-I"
+            }
+        },
+        {
             "path": "Japan/8/HT/WoA_J27_O_I_120.wotmod",
             "size": 3433317,
             "hash": "5c2b37185d5d0ad30bcc771bb0829de4a51ab8a30fe240843d7a990e0c0dd913",
