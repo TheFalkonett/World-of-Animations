@@ -678,6 +678,19 @@
             }
         },
         {
+            "path": "Japan/11/TD/WoA_J53_Ho_Ri_Shugo.wotmod",
+            "size": 12830574,
+            "hash": "2886e2091cba399915a642c51a59c290229e1aab515befe95ed3f8bafa2cb59f",
+            "nation": "Japan",
+            "tier": "11",
+            "class": "TD",
+            "name": {
+                "en_US": "Ho-Ri Shugo",
+                "de_DE": "Ho-Ri Shugo",
+                "ru_RU": "Ho-Ri Shugo"
+            }
+        },
+        {
             "path": "Japan/5/MT/WoA_J12_Chi_Nu_Kai.wotmod",
             "size": 1095167,
             "hash": "a557ffc5bc5359f90675dac95c8ef531dd1ffe8f614e8156774ac149ca3d338e",
