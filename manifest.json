@@ -132,6 +132,19 @@
             }
         },
         {
+            "path": "British/11/HT/WoA_GB147_FV4025_Contriver.wotmod",
+            "size": 3732293,
+            "hash": "98f56e83988af4753a73e33eaa464e276e6fabd6c10b4ea7d9007b0de2f45139",
+            "nation": "British",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "FV4025 Contriver",
+                "de_DE": "FV4025 Contriver",
+                "ru_RU": "FV4025 Contriver"
+            }
+        },
+        {
             "path": "British/4/MT/WoA_GB33_Sentinel_AC_I.wotmod",
             "size": 1232352,
             "hash": "4bf9be8d4e3991be0a045e1fe1d57eb96a9e28c5546a63236b6eb247c6d071e6",
@@ -493,6 +506,19 @@
                 "en_US": "Pz.Kpfw. Neu",
                 "de_DE": "Pz.Kpfw. Neu",
                 "ru_RU": "Pz.Kpfw. Neu"
+            }
+        },
+        {
+            "path": "German/11/TD/WoA_G189_Hirschkafer.wotmod",
+            "size": 5183575,
+            "hash": "d4ea2c6612d415249e875d11c2280ff66db79890a6cc7d98ae846a4d2104744d",
+            "nation": "German",
+            "tier": "11",
+            "class": "TD",
+            "name": {
+                "en_US": "Hirschkäfer",
+                "de_DE": "Hirschkäfer",
+                "ru_RU": "Hirschkäfer"
             }
         },
         {
