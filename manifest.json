@@ -821,6 +821,19 @@
             }
         },
         {
+            "path": "Russian/11/MT/WoA_R230_Object_432U.wotmod",
+            "size": 10475005,
+            "hash": "b16a44fe54d26ff2d68a63ce5933567f0f8d85f326d3d25539a58711afb66702",
+            "nation": "Russian",
+            "tier": "11",
+            "class": "MT",
+            "name": {
+                "en_US": "Object 432U",
+                "de_DE": "Object 432U",
+                "ru_RU": "Объект 432У"
+            }
+        },
+        {
             "path": "Russian/7/HT/WoA_R39_KV-3.wotmod",
             "size": 1181820,
             "hash": "db3bdf42152db723e6747b6e54a6e9f99e5960758e626b87561935e8590536aa",
