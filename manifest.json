@@ -379,6 +379,19 @@
             }
         },
         {
+            "path": "French/11/HT/WoA_F143_Fauteur.wotmod",
+            "size": 4557975,
+            "hash": "08e43842d9b336e55396344f7b831601585b3371356a97cc86b7466b05032c31",
+            "nation": "French",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "Fauteur",
+                "de_DE": "Fauteur",
+                "ru_RU": "Fauteur"
+            }
+        },
+        {
             "path": "French/7/TD/WoA_F35_AMX_AC_Mle1946.wotmod",
             "size": 1382665,
             "hash": "d07003d6d27c242366a6fc3cb468f937ef0e4bc0e7acecf638942a4a78a2c22e",
