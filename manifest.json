@@ -119,6 +119,19 @@
             }
         },
         {
+            "path": "British/10/MT/WoA_GB86_Centurion_Action_X_3DSt_BVI.wotmod",
+            "size": 7390792,
+            "hash": "b46980cc470bbf287641287919aa4872038fd709a991d7317034c2aa671cccfb",
+            "nation": "British",
+            "tier": "10",
+            "class": "MT",
+            "name": {
+                "en_US": "Centurion Action X - 3D-Style \"Primipilus\"",
+                "de_DE": "Centurion Action X - 3D-Stil „Primipilus“",
+                "ru_RU": "Centurion Action X - 3D-Стиль «Примипил»"
+            }
+        },
+        {
             "path": "British/10/TD/WoA_GB83_FV4005.wotmod",
             "size": 1437313,
             "hash": "4720314dd713f21ae5f6e501eb1430a4972a1e6232afd1860e47c5fb5a10dde1",

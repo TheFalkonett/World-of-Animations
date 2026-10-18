@@ -1,2 +1,9 @@
+# World of Animations
 woa_manifest.json
+
+# Backups
 *.bak
+
+# Python
+*.py
+*.pyw
