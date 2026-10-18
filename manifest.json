@@ -54,6 +54,19 @@
             }
         },
         {
+            "path": "American/7/HT/WoA_A11_T29.wotmod",
+            "size": 2048809,
+            "hash": "2212459ab20c2bb4627c39002f66e4143ab6faaa10190267e050ae4d667259d5",
+            "nation": "American",
+            "tier": "7",
+            "class": "HT",
+            "name": {
+                "en_US": "T29",
+                "de_DE": "T29",
+                "ru_RU": "T29"
+            }
+        },
+        {
             "path": "American/8/HT/WoA_A124_T54E2.wotmod",
             "size": 1373030,
             "hash": "c12e32814df490f8007f18ada963162ce54bcae0f6406a5ce6735d58d03dd4c7",
