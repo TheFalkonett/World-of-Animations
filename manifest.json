@@ -249,6 +249,19 @@
             }
         },
         {
+            "path": "British/8/MT/WoA_GB70_N_FV4202_105.wotmod",
+            "size": 818532,
+            "hash": "79fb8d2388fe5d233e5dce74754d140f585f15d7182acbd68d85da6f11bc87fd",
+            "nation": "British",
+            "tier": "8",
+            "class": "MT",
+            "name": {
+                "en_US": "FV4202",
+                "de_DE": "FV4202",
+                "ru_RU": "FV4202"
+            }
+        },
+        {
             "path": "British/8/TD/WoA_GB80_Charioteer.wotmod",
             "size": 1750722,
             "hash": "c7a223264612efcb3274f4377b9015442ca19f79d616536592c77ecbd29376b1",
