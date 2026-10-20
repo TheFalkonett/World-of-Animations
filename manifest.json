@@ -860,6 +860,19 @@
             }
         },
         {
+            "path": "Poland/11/MT/WoA_Pl37_CS_67_Szakal.wotmod",
+            "size": 6404113,
+            "hash": "fab67d19ec2108101aab7ae826b25c0d19c471df569d1be62e5fa997ad1db19f",
+            "nation": "Poland",
+            "tier": "11",
+            "class": "MT",
+            "name": {
+                "en_US": "CS-67 Szakal",
+                "de_DE": "CS-67 Szakal",
+                "ru_RU": "CS-67 Szakal"
+            }
+        },
+        {
             "path": "Poland/5/MT/WoA_Pl12_25TP_KSUST_II.wotmod",
             "size": 1932006,
             "hash": "376f637b0c804b0bff0f1d08091d753ad93a86e7ef27fd980f786e1b00ee203c",
