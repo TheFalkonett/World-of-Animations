@@ -379,6 +379,19 @@
             }
         },
         {
+            "path": "Czech/11/HT/WoA_Cz46_Vz_63P.wotmod",
+            "size": 4804550,
+            "hash": "f1a1fdd95b33220a821dc96f8eebe3834a7c8a06856849ed87c152e69c48bd3e",
+            "nation": "Czech",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "Vz. 63P",
+                "de_DE": "Vz. 63P",
+                "ru_RU": "Vz. 63P"
+            }
+        },
+        {
             "path": "Czech/6/MT/WoA_Cz01_Skoda_T40.wotmod",
             "size": 256714,
             "hash": "0198c103cfa30b2a06afdecb4f204801424687b88d2bd78e0b03f9c541cf583e",
