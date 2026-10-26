@@ -574,6 +574,19 @@
             }
         },
         {
+            "path": "German/11/LT/WoA_G188_LeKpz_Borkenkafer.wotmod",
+            "size": 5577789,
+            "hash": "65924c0efb003a12ee97fed5cba4a0eb6c540276deb300bbf34980c8708b1ed3",
+            "nation": "German",
+            "tier": "11",
+            "class": "LT",
+            "name": {
+                "en_US": "leKpz Borkenkäfer",
+                "de_DE": "leKpz Borkenkäfer",
+                "ru_RU": "leKpz Borkenkäfer"
+            }
+        },
+        {
             "path": "German/11/TD/WoA_G189_Hirschkafer.wotmod",
             "size": 5183575,
             "hash": "d4ea2c6612d415249e875d11c2280ff66db79890a6cc7d98ae846a4d2104744d",
