@@ -431,6 +431,19 @@
             }
         },
         {
+            "path": "French/11/HT/WoA_F136_AMX_67_Imbattable.wotmod",
+            "size": 3479859,
+            "hash": "0bfaf6c63aa1e4da3db5513d3488ee232464cbb3715f63dd8b0958808a0e2e69",
+            "nation": "French",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "AMX 67 Imbattable",
+                "de_DE": "AMX 67 Imbattable",
+                "ru_RU": "AMX 67 Imbattable"
+            }
+        },
+        {
             "path": "French/11/HT/WoA_F143_Fauteur.wotmod",
             "size": 4557975,
             "hash": "08e43842d9b336e55396344f7b831601585b3371356a97cc86b7466b05032c31",
