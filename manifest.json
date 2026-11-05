@@ -964,6 +964,19 @@
             }
         },
         {
+            "path": "Russian/11/HT/WoA_R228_KR_1.wotmod",
+            "size": 6056090,
+            "hash": "d93e9bc153f5e3fe68a84ebc6fb661ede3160135a1b0acf637bfcd7cea1084f9",
+            "nation": "Russian",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "KR-1",
+                "de_DE": "KR-1",
+                "ru_RU": "KP-1"
+            }
+        },
+        {
             "path": "Russian/11/MT/WoA_R230_Object_432U.wotmod",
             "size": 10475005,
             "hash": "b16a44fe54d26ff2d68a63ce5933567f0f8d85f326d3d25539a58711afb66702",
