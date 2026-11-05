@@ -470,6 +470,19 @@
             }
         },
         {
+            "path": "French/11/MT/WoA_F135_AS_XX_40_t.wotmod",
+            "size": 7514506,
+            "hash": "49342c6256b78751c80c49609b1e23cf36b7da1d3a5350871277d34d05e33df9",
+            "nation": "French",
+            "tier": "11",
+            "class": "MT",
+            "name": {
+                "en_US": "AS-XX 40 t",
+                "de_DE": "AS-XX 40 t",
+                "ru_RU": "AS-XX 40 t"
+            }
+        },
+        {
             "path": "French/7/TD/WoA_F35_AMX_AC_Mle1946.wotmod",
             "size": 1382665,
             "hash": "d07003d6d27c242366a6fc3cb468f937ef0e4bc0e7acecf638942a4a78a2c22e",
