@@ -171,6 +171,19 @@
             }
         },
         {
+            "path": "British/11/TD/WoA_GB152_AT_FV230_Breaker.wotmod",
+            "size": 11940712,
+            "hash": "77faac2d6c34d21a7ea9800f7bd979f4c6489775e1ead2bb2bf540f3b0ae86c4",
+            "nation": "British",
+            "tier": "11",
+            "class": "TD",
+            "name": {
+                "en_US": "AT-FV230 Breaker",
+                "de_DE": "AT-FV230 Breaker",
+                "ru_RU": "AT-FV230 Breaker"
+            }
+        },
+        {
             "path": "British/4/MT/WoA_GB33_Sentinel_AC_I.wotmod",
             "size": 1232352,
             "hash": "4bf9be8d4e3991be0a045e1fe1d57eb96a9e28c5546a63236b6eb247c6d071e6",
