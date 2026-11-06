@@ -626,6 +626,19 @@
             }
         },
         {
+            "path": "German/11/MT/WoA_G185_Leopard_120_Verbessert.wotmod",
+            "size": 6218316,
+            "hash": "791cee572b8afd3910d14cd02983a56b65b577912e728e62aeac1c08403246f4",
+            "nation": "German",
+            "tier": "11",
+            "class": "MT",
+            "name": {
+                "en_US": "Leopard 120 Verbessert",
+                "de_DE": "Leopard 120 Verbessert",
+                "ru_RU": "Leopard 120 Verbessert"
+            }
+        },
+        {
             "path": "German/11/TD/WoA_G189_Hirschkafer.wotmod",
             "size": 5183575,
             "hash": "d4ea2c6612d415249e875d11c2280ff66db79890a6cc7d98ae846a4d2104744d",
