@@ -106,6 +106,19 @@
             }
         },
         {
+            "path": "British/10/HT/WoA_GB84_Chieftain_Mk6.wotmod",
+            "size": 2043229,
+            "hash": "3f2eb43ad55f6b372ff5a6b8345a5800aa6a48a50b11bfa9fae6a7c904334d44",
+            "nation": "British",
+            "tier": "10",
+            "class": "HT",
+            "name": {
+                "en_US": "Chieftain Mk. 6",
+                "de_DE": "Chieftain Mk. 6",
+                "ru_RU": "Chieftain Mk. 6"
+            }
+        },
+        {
             "path": "British/10/LT/WoA_GB100_Manticore.wotmod",
             "size": 3523067,
             "hash": "cdafcc5b4671e8f16fdc4b608b7060a7cf4592918df3eea0d3bdd91d844a8fe6",
