@@ -353,6 +353,19 @@
             }
         },
         {
+            "path": "Chinese/11/HT/WoA_Ch67_BZ_79.wotmod",
+            "size": 5392667,
+            "hash": "c2541907d8c57353d1b2fef4451b4e04506f650022f5733a179dd35489e9dcd9",
+            "nation": "Chinese",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "BZ-79",
+                "de_DE": "BZ-79",
+                "ru_RU": "BZ-79"
+            }
+        },
+        {
             "path": "Chinese/11/LT/WoA_Ch71_WZ_219.wotmod",
             "size": 8065899,
             "hash": "5064b408035b6a5e0bd914ebce545123fd6c2b767dc9b85b72fffe969c14b669",
