@@ -15,6 +15,19 @@
             }
         },
         {
+            "path": "American/11/HT/WoA_A179_Black_Rock.wotmod",
+            "size": 1217099,
+            "hash": "7101af6b41824494743f5c6b8f441b94b04da60adf27a62509d2d4605db4d1dd",
+            "nation": "American",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "Black Rock",
+                "de_DE": "Black Rock",
+                "ru_RU": "Black Rock"
+            }
+        },
+        {
             "path": "American/11/HT/WoA_A182_T803.wotmod",
             "size": 1890036,
             "hash": "73742b5a7d17a293ebc8204df449bc150a8569057213047c899018e004038810",
