@@ -769,6 +769,19 @@
             }
         },
         {
+            "path": "German/7/MT/WoA_G200_Chi_Go.wotmod",
+            "size": 2448713,
+            "hash": "9b0fdfa302545d7b08fa0f062ee9ce2c33cde6848f9614cd724373e800afa837",
+            "nation": "German",
+            "tier": "7",
+            "class": "MT",
+            "name": {
+                "en_US": "Chi-Go",
+                "de_DE": "Chi-Go",
+                "ru_RU": "Chi-Go"
+            }
+        },
+        {
             "path": "German/7/TD/WoA_G48_E-25.wotmod",
             "size": 1457119,
             "hash": "c197b70eecfc37a335832d22fc0005b646f9f54805af38a3925261fb2ee9b337",
