@@ -626,6 +626,19 @@
             }
         },
         {
+            "path": "German/11/HT/WoA_G187_Taschenratte.wotmod",
+            "size": 9528524,
+            "hash": "6636bba8c59119a0d9049c67c5f2468e2bc7b662b3f1870abe49aadfe2ca5377",
+            "nation": "German",
+            "tier": "11",
+            "class": "HT",
+            "name": {
+                "en_US": "Taschenratte",
+                "de_DE": "Taschenratte",
+                "ru_RU": "Taschenratte"
+            }
+        },
+        {
             "path": "German/11/HT/WoA_G197_Pz_Kpfw_Neu.wotmod",
             "size": 3873238,
             "hash": "93918223f762777b9f7a6be7600987b6a115e06a8321c56c1d248b95893705c8",
